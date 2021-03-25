@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://cvvdefi.com/',
+    href: 'https://magicdefi.finance/',
   },
   {
     label: 'Trade',
@@ -12,38 +12,38 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.magic.finance',
+        href: 'https://exchange.magicdefi.finance',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.magic.finance/#/pool',
+        href: 'https://exchange.magicdefi.finance/#/pool',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://magic.finance/farms',
+    href: 'https://magicdefi.finance/farms',
   },
   {
     label: 'Staking',
     icon: 'PoolIcon',
-    href: 'https://magic.finance/staking',
+    href: 'https://magicdefi.finance/staking',
   },
   // {
   //   label: 'Pools',
   //   icon: 'PoolIcon',
-  //   href: 'https://magic.finance/#/pools',
+  //   href: 'https://magicdefi.finance/#/pools',
   // },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://magic.finance/#/lottery',
+  //   href: 'https://magicdefi.finance/#/lottery',
   // },
   // {
   //   label: 'NFT',
   //   icon: 'NftIcon',
-  //   href: 'https://magic.finance/#/nft',
+  //   href: 'https://magicdefi.finance/#/nft',
   // },
   {
     label: 'Info',
